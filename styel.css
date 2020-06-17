@@ -1,0 +1,13 @@
+.padding {
+    padding: 5rem !important
+}
+
+.form-control:focus {
+    box-shadow: 10px 0px 0px 0px #ffffff !important;
+    border-color: #4ca746
+}
+
+header{
+		background-size: cover;
+		background-position: center;
+}
